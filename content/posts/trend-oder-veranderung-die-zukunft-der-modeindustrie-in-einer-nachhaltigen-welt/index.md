@@ -1,7 +1,7 @@
 +++
 title = "Trend oder Veränderung? Die Zukunft der Modeindustrie in einer Nachhaltigen Welt."
 date = "2024-03-27"
-draft = true
+draft = false
 pinned = false
 image = "7d401ab2-b79c-4d73-91ac-7104dbe1a775.jpeg"
 +++
