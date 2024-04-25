@@ -1,0 +1,41 @@
++++
+title = "Trend oder Veränderung? Die Zukunft der Modeindustrie in einer Nachhaltigen Welt."
+date = "2024-04-25"
+draft = false
+pinned = false
++++
+Die Modeindustrie, die lange Zeit von schnellen Trends und Massenproduktion geprägt war, unterzieht sich nun einer bemerkenswerten Revolution: Nachhaltigkeit! Das Thema Nachhaltigkeit ist in vielen Branchen ein Anliegen, das dringlicher nicht sein könnte. In der Textilbranche macht sich diese Veränderung deutlich bemerkbar, auch weil der Wandel dieser Industrie wichtiger ist als je zuvor. Unternehmen setzen vermehrt auf ethische Praktiken und nachhaltige Lösungen bezüglich Lieferketten oder Produktionsprozessen. Der Wandel weg von der Wegwerfkultur hin zu einer nachhaltigeren Zukunft scheint zuversichtlich.
+
+{{<box>}}
+
+Nina Bachmann
+
+Nina Bachmann ist vertraut mit der Textilbranche, da sie nicht nur bei Swiss textiles, dem nationalen verband für Textilien der Schweiz, als Geschäftsleitung fungiert, sie ist auch Teil eines Projektes welches sich damit beschäftigt die Modebranche in der Schweiz, in eine nachhaltigere Zukunft zu begleiten. Bei dem Verband "Swiss Textiles" ist sie für die Bereiche Nachhaltigkeit und Technologie verantwortlich und setzt sich damit auseinander, was die schweizerische Modeindustrie nachhaltig zu ihren Zielen führt.
+
+{{</box>}}
+
+###### Transparenz
+
+Transparenz ist eines der Themen, die Hand in Hand mit Nachhaltigkeit gehen. Es ist jedoch wichtig, Transparenz nicht mit Nachhaltigkeit zu verwechseln und vielmehr als ein essenzielles Mittel zum Erreichen einer nachhaltigeren Zukunft zu sehen. «Fashion Revolution» hat es sich zum siebten Mal zum Ziel gesetzt, diese Transparenz zu dokumentieren. Den Statistiken folgend werden sich Unternehmen zunehmend bewusst, wie wichtig es ist, ihre Lieferketten offenzulegen. Marken, die im Luxussegment vertreten sind, wie beispielsweise Gucci, konnten ihren Index auf beeindruckende 80% steigern. Jedoch wurde durch die Statistiken auch deutlich, dass man noch nicht an einem Punkt ist, um aufzuhören. „Die Unternehmen beginnen jetzt auch wirklich, ihre Lieferkette aufzuschlüsseln, versuchen diese auch für sich selbst transparent zu machen. Das ist gar nicht so einfach“, sagt Nina Bachmann von «Swiss Textiles». Transparenz ist besonders abhängig von Lieferanten und Produzenten. Diese sind oft nicht bereit, diese offenzulegen, da sie selbst von ihren Lieferanten die Ware günstiger einkaufen und dann eine gewisse Angst herrscht, dass diese Unternehmen direkt bei ihren Lieferanten einkaufen.
+
+###### Konsumenten
+
+Sind Konsumenten *innen überhaupt bereit, sich auf diese Umstellungen, die mit einer nachhaltigen Textilindustrie einhergehen, einzulassen? [Das fragen](<>) sich gerade alle, die in der Branche tätig sind. Die Antwort ist nicht klar. Ein Großteil der schweizerischen Bevölkerung greift immer noch auf günstigere Alternativen wie Fast Fashion zurück. Das ist das große Problem, welches sich herausgestellt hat. Dieses Ziel, nachhaltiger zu werden, bringt ökonomische Folgen mit sich, die sich bemerkbar machen. „Wenn es dann ans Portemonnaie geht, spielt letztendlich der Preis eine größere Rolle als der Entscheid für Nachhaltigkeit“, meint Nina Bachmann. Es gibt großes Potenzial bezüglich dieses Problems. Es müsste doch beispielsweise möglich sein, etwas bewusster mit unserem Konsum umzugehen.
+
+###### Ökonomische Folgen
+
+Diese ökonomischen Folgen sind deutlich bemerkbar, wenn es um Retail-Stores oder Produktionen geht. Wird ein Kleidungsstück nachhaltig produziert, so ist nicht nur die Materialität teurer, sondern es können auch Kosten anfallen für Personen, die Nachhaltigkeitsprogramme beaufsichtigen. Diese Personen müssen ständig ein Auge auf diesen Standard haben, um die Nachhaltigkeit dieses Produktes garantieren zu können.
+
+Für diese Person fallen kosten im Bereich von sechzigtausend Franken jährlich an und diese müssen kompensiert werden. Dieses Kompensieren wird dann mit dem höheren Preis des Kleidungsstückes auch für den Kunden und die Kundin sichtbar.
+
+###### Soziale Aspekte
+
+Eines der Probleme, welches die Modebranche aufweist, ist das Einhalten von sozialen Werten und Moral. Dieses Problem gilt es zu lösen, um eine nachhaltigere Etikette auf die Industrie zu kleben. Fast-Fashion-Unternehmen werden immer öfter damit konfrontiert, unethische Arbeitsverhältnisse zu haben, und es scheint sich nicht viel zu verändern. Verschmutzte Flüsse durch Farbabfälle, schlechte Luftqualität oder Löhne unterhalb der Mindestlohngrenze sind Bestandteil des Alltags einer Mitarbeiterin oder eines Mitarbeiters in den Textilproduktionen, Asiens. Ein solcher Alltag scheint erschreckend und unvorstellbar, und es wird immer wieder darüber berichtet, wie Produktionshäuser zusammenbrechen, dabei mehrere verletzte Menschen hinterlassen oder wie sich Menschen durch die toxischen Abfälle des Produktionsvorgangs mit schlimmen Krankheiten infizieren. Es müsste für diese unmenschlichen Probleme doch eine Lösung geschaffen werden. Nina Bachmann meint, es liege den Unternehmen am Herzen, dies zu ändern, aber es sei nicht so einfach. Große Produktionsstätten legen ihre Arbeitsvoraussetzungen nicht gerne auf den Tisch, und es bräuchte jemanden, der konstant vor Ort nach den rechten Dingen schaut. Dies wäre immens kostspielig, meint sie. Man sieht hier eine Parallele zu den ökonomischen Folgen, und dieses Kontrollieren scheint eine der einzigen Lösungen zu sein, die das Problem zu lösen scheint.
+
+###### Andere Lösungen
+
+Es liegen mehrere Möglichkeiten vor, ein so immenses Problem in Angriff zu nehmen und etwas zu verändern. Einige davon wurden bereits genannt, doch was ist sonst noch möglich? Minimierung ist ein wichtiges Stichwort in diesem Aspekt. Es geht bei einer Minimierung darum, eigene Bedürfnisse zurückzustellen und die Bedürfnisse der Umwelt und deren Belastbarkeit in den Vordergrund zu stellen. Eine Minimierung kann in vielerlei Hinsicht einen Vorteil erbringen. Es ist wohl bekannt, dass der Konsument eine wichtige Rolle spielt. Unser Gehirn löst ein gewisses Belohnungssystem aus, wenn Dinge konsumiert werden. Durch einen höheren Konsum wird dieses System in gewisser Weise mehr gefördert, was zu einem höheren Zufriedenheitsgefühl führt. Um diesen Prozess also zu umgehen, liegt es an jedem Individuum, etwas zu tun. Es gibt außerdem Möglichkeiten wie Secondhandläden oder Portale, mit denen ein höherer Konsum nicht direkt zu einem schlimmeren Ausmaß der Umweltverschmutzung beiträgt. Außerdem können Maßnahmen ergriffen werden wie Recycling. Recycling sind Technologien, welche ein neues Leben für bereits vorhandene Produkte schaffen. Es werden also bereits vorhandene Ressourcen wiederverwendet, anstatt neue zu produzieren. In Hinsicht auf die Textilbranche kann das beispielsweise die synthetischen Stoffe und wie sie durch technische Vorangehensweisen zu neuen Produkten recycelt werden sein. Recycling muss jedoch nicht nur technisch geschehen, es gibt beispielsweise Konzepte wie Upcycling, in denen der Besitzer die Kleidung, welche sie/er nicht mehr trägt, zu neuen Kleidungsstücken umnäht oder für sie/ihn wieder tragbar gestaltet.
+
+###### Ökologische Folgen
+
+Ich möchte mit Zahlen beginnen: Ein\*e Textilverbraucher\*in in Europa verbraucht jährlich 400 Quadratmeter Land, 9 Kubikmeter Wasser und 391 Kilogramm an Rohstoffen (Stand 2020). Mit solchen Zahlen im Raum scheint es gar nicht so unrealistisch zu sein, dass Schätzungen zufolge die Textilproduktion 10% aller Treibhausgasemissionen ausmacht. Dies liegt daran, dass diese Mengen an Kleidern vorerst produziert werden müssen, um danach konsumiert werden zu können. Es werden für die Produktion eines einzelnen T-Shirts aus Baumwolle beispielsweise 2.700 Liter Süßwasser benötigt. Der stetig wachsende Bereich „Fast Fashion“ ist hierbei maßgebend. Es werden nämlich nicht nur Ressourcen in umweltschädlichem Ausmaß verbraucht, nein, sie werden im selben Ausmaß auch wieder zerstört. Dies liegt daran, dass mit schnell wachsenden Trends exponentielle Überschüsse an Kleidung hergestellt werden und durch diese Unternehmen lieber zerstört als recycelt werden. Ich frage nun dich, ist es nicht an der Zeit zu überdenken, was wir eigentlich tun, und den Weg der nachhaltigeren Textilbranche einzuschlagen?
